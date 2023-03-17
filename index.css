@@ -5,7 +5,7 @@
 }
 body{
     height: 100vh;
-    background-image:url(pics/pic1.jpeg) ;
+    background-image:url(pic1.jpeg) ;
     opacity: 110;
     background-attachment: fixed;
     background-size: cover;
@@ -131,7 +131,7 @@ ul li a:hover:after{
 /*Setting the background image using before pseudo selector*/ 
 #container1::before{
     content:'';
-    background-image: url("pics/pic5.jpeg") no-repeat center center/cover;
+    background-image: url("pic5.jpeg") no-repeat center center/cover;
     width: 100vw;
     height:59vh;
     position: absolute;
@@ -151,9 +151,9 @@ ul li a:hover:after{
     animation-direction:inherit;
 }
 @keyframes hey{
-    0%{background-image: url("pics/6.jpeg")}
-    35%{background-image: url("pics/12.jpeg")}
-    75%{background-image: url("pics/9.jpeg")}
+    0%{background-image: url("6.jpeg")}
+    35%{background-image: url("12.jpeg")}
+    75%{background-image: url("9.jpeg")}
 }
 
 #row1{
@@ -198,7 +198,7 @@ ul li a:hover:after{
 }
 #row2::before{
     content: '';
-    background: url('pics/pic8.jpeg') no-repeat center center/cover;
+    background: url('pic8.jpeg') no-repeat center center/cover;
     position: absolute;
     top: 0px;
     left:0px;
@@ -230,7 +230,7 @@ ul li a:hover:after{
 }
 #row3::before{
     content: '';
-    background: url('pics/pic9.jpeg') no-repeat center center/cover;
+    background: url('pic9.jpeg') no-repeat center center/cover;
     position: absolute;
     top:0px;
     left:0px;
@@ -262,7 +262,7 @@ ul li a:hover:after{
     width: 29vw;
     height: 360px;
     border: 2px solid black;
-    background:url('pics/pic11.jpeg') no-repeat center center/cover; 
+    background:url('pic11.jpeg') no-repeat center center/cover; 
     display: flex;
     justify-content:center;
     align-items:flex-end;
@@ -277,7 +277,7 @@ ul li a:hover:after{
     width: 29vw;
     height: 360px;
     border: 2px solid black;
-    background:url('pics/pic12.jpeg') no-repeat center center/cover;
+    background:url('pic12.jpeg') no-repeat center center/cover;
     display: flex;
     justify-content:center;
     align-items:flex-end;
@@ -292,7 +292,7 @@ ul li a:hover:after{
     width: 30vw;
     height: 360px;
     border: 2px solid black;
-    background:url('pics/pic10.jpeg') no-repeat center center/cover;
+    background:url('pic10.jpeg') no-repeat center center/cover;
     display: flex;
     justify-content:center; 
     align-items:flex-end;
@@ -316,7 +316,7 @@ ul li a:hover:after{
     display:flex;
     flex-direction: column;
     align-items: center;
-    background:url(pics/pic5.jpeg);
+    background:url(pic5.jpeg);
     border-radius:25px;
 }
 .form-shape input, .form-shape select, .form-shape textarea{
