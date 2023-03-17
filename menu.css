@@ -5,7 +5,7 @@
 }
 body{
     height: 100vh;
-    background-image:url(pics/pic13.jpeg) ;
+    background-image:url(pic13.jpeg) ;
     opacity: 110;
     background-attachment: fixed;
     background-size: cover;
@@ -114,7 +114,7 @@ body{
     width: 27vw;
     height: 260px;
     border: 2px solid black;
-    background:url('pics/1.jpeg') no-repeat center center/cover; 
+    background:url('1.jpeg') no-repeat center center/cover; 
     display: flex;
     justify-content:center;
     align-items:flex-end;
@@ -129,7 +129,7 @@ body{
     width: 27vw;
     height: 260px;
     border: 2px solid black;
-    background:url('pics/2.jpeg') no-repeat center center/cover;
+    background:url('2.jpeg') no-repeat center center/cover;
     display: flex;
     justify-content:center;
     align-items:flex-end;
@@ -144,7 +144,7 @@ body{
     width: 27vw;
     height: 260px;
     border: 2px solid black;
-    background:url('pics/3.jpeg') no-repeat center center/cover;
+    background:url('3.jpeg') no-repeat center center/cover;
     display: flex;
     justify-content:center; 
     align-items:flex-end;
@@ -164,7 +164,7 @@ body{
     width: 27vw;
     height: 260px;
     border: 2px solid black;
-    background:url('pics/4.jpeg') no-repeat center center/cover; 
+    background:url('4.jpeg') no-repeat center center/cover; 
     display: flex;
     justify-content:center;
     align-items:flex-end;
@@ -183,7 +183,7 @@ body{
     width: 27vw;
     height: 260px;
     border: 2px solid black;
-    background:url('pics/5.jpeg') no-repeat center center/cover;
+    background:url('5.jpeg') no-repeat center center/cover;
     display: flex;
     justify-content:center; 
     align-items:flex-end;
@@ -205,7 +205,7 @@ body{
     width: 27vw;
     height: 260px;
     border: 2px solid black;
-    background:url('pics/6.jpeg') no-repeat center center/cover; 
+    background:url('6.jpeg') no-repeat center center/cover; 
     display: flex;
     justify-content:center;
     align-items:flex-end;
@@ -220,7 +220,7 @@ body{
     width: 27vw;
     height: 260px;
     border: 2px solid black;
-    background:url('pics/7.jpeg') no-repeat center center/cover;
+    background:url('7.jpeg') no-repeat center center/cover;
     display: flex;
     justify-content:center;
     align-items:flex-end;
@@ -235,7 +235,7 @@ body{
     width: 27vw;
     height: 260px;
     border: 2px solid black;
-    background:url('pics/8.jpeg') no-repeat center center/cover;
+    background:url('8.jpeg') no-repeat center center/cover;
     display: flex;
     justify-content:center; 
     align-items:flex-end;
@@ -255,7 +255,7 @@ body{
     width: 27vw;
     height: 260px;
     border: 2px solid black;
-    background:url('pics/9.jpeg') no-repeat center center/cover; 
+    background:url('9.jpeg') no-repeat center center/cover; 
     display: flex;
     justify-content:center;
     align-items:flex-end;
@@ -274,7 +274,7 @@ body{
     width: 27vw;
     height: 260px;
     border: 2px solid black;
-    background:url('pics/10.jpeg') no-repeat center center/cover;
+    background:url('10.jpeg') no-repeat center center/cover;
     display: flex;
     justify-content:center; 
     align-items:flex-end;
@@ -296,7 +296,7 @@ body{
     width: 27vw;
     height: 260px;
     border: 2px solid black;
-    background:url('pics/11.jpeg') no-repeat center center/cover; 
+    background:url('11.jpeg') no-repeat center center/cover; 
     display: flex;
     justify-content:center;
     align-items:flex-end;
@@ -311,7 +311,7 @@ body{
     width:27vw;
     height: 260px;
     border: 2px solid black;
-    background:url('pics/12.jpeg') no-repeat center center/cover;
+    background:url('12.jpeg') no-repeat center center/cover;
     display: flex;
     justify-content:center;
     align-items:flex-end;
@@ -326,7 +326,7 @@ body{
     width:27vw;
     height: 260px;
     border: 2px solid black;
-    background:url('pics/13.jpeg') no-repeat center center/cover;
+    background:url('13.jpeg') no-repeat center center/cover;
     display: flex;
     justify-content:center; 
     align-items:flex-end;
